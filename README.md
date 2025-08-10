@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](https://your-banner-image-link)
+![Banner](https://www.canva.com/design/DAGvsM8ZsyI/KIrtn03GQN0y8XdSzqN1Sg/edit?utm_content=DAGvsM8ZsyI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <h1 align="center">Hi 👋, I'm Parthesh Patel</h1>
 <h3 align="center">💻 Software Engineer | AI & Web Developer | Final Year CSE Student</h3>
