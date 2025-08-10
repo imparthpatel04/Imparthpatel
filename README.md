@@ -29,4 +29,4 @@
 
 ---
 
-📫 **Reach me at:** your-email@example.com
+📫 **Reach me at:** parthesh1410@gmail.com
