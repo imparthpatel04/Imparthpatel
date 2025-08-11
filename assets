@@ -1,1 +1,7 @@
+# Example if placing in assets/
+mkdir assets
+mv banner.png assets/
+git add assets/banner.png
+git commit -m "Add banner image"
+git push
 
