@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](https://www.canva.com/design/DAGvsM8ZsyI/KIrtn03GQN0y8XdSzqN1Sg/edit?utm_content=DAGvsM8ZsyI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![Banner](assets/banner.png)
 
 <h1 align="center">Hi 👋, I'm Parthesh Patel</h1>
 <h3 align="center">💻 Software Engineer | AI & Web Developer | Final Year CSE Student</h3>
@@ -48,7 +48,7 @@
 
 ### 📫 Connect with Me
 <p>
-  <a href="mailto:your-Parthesh1410@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:Parthesh1410@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/parthesh-patel-329506253"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/Imparthpatel"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
